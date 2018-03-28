@@ -1,0 +1,1 @@
+This is a project I made during my time at Hack Reactor to practice using clientside frameworks such as React and Angular.
